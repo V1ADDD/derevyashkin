@@ -236,6 +236,9 @@ body {
         grid-gap: 10vw;
     }
     .container-examples{
-        padding: 96px 0px;
+        padding: 96px 0;
+    }
+    .main-text > h1{
+        font-size: 48px;
     }
 }
