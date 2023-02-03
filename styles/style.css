@@ -239,6 +239,12 @@ body {
         padding: 96px 0;
     }
     .main-text > h1{
+        font-size: 48px;
+    }
+    .container-examples > .main-content > .main-text > h1{
         font-size: 36px;
+    }
+    .examples-description > h1{
+        font-size: 48px;
     }
 }
